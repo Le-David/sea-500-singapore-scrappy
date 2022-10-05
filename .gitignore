@@ -1,0 +1,4 @@
+/venv
+startups_scrapy/startups_scrapy/__pycache__
+startups_scrapy/startups_scrapy/spiders/__pycache__
+
